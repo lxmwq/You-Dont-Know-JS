@@ -255,7 +255,7 @@ You just can't get away from coercions in JS comparisons. Buckle down and learn 
 
 In Chapter 3, we introduced prototypes and showed how we can link objects through a prototype chain.
 
-Another way of wiring up such prototype linkages served as the (honestly, ugly) predecessor to the elegance of the ES6 `class` system (see Chapter 2), and is referred to as prototypal classes.
+Another way of wiring up such prototype linkages served as the (honestly, ugly) predecessor to the elegance of the ES6 `class` system (see Chapter 2, "Classes"), and is referred to as prototypal classes.
 
 | TIP: |
 | :--- |

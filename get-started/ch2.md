@@ -462,7 +462,7 @@ But beware, it's more complicated than you'll assume. For example, how might you
 
 ### Coercive Comparisons
 
-As mentioned earlier, coercion means a value of one type being converted to its respective representation in another type (to whatever extent possible). As we'll discuss in Chapter 4, coercion is a core pillar of the JS language, not some optional feature that can reasonably be avoided.
+Coercion means a value of one type being converted to its respective representation in another type (to whatever extent possible). As we'll discuss in Chapter 4, coercion is a core pillar of the JS language, not some optional feature that can reasonably be avoided.
 
 But where coercion meets comparison operators (like equality), confusion and frustration unfortunately crop up more often than not.
 
